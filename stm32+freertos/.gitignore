@@ -1,0 +1,28 @@
+# =============== Keil MDK 编译垃圾文件 ===============
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.htm
+*.build_log.htm
+*.dep
+*.map
+*.lst
+*.hex
+*.bin
+*.bak
+*.sct
+*.uvguix.*
+*.uvoptx
+*.scvd
+
+# =============== 必须屏蔽的中间文件夹 ===============
+Objects/
+Listings/
+DebugConfig/
+RTE/
+
+# =============== 操作系统垃圾文件 ===============
+.DS_Store
+Thumbs.db
