@@ -2,6 +2,8 @@
 
 <img width="1920" height="1032" alt="屏幕截图 2026-05-18 131802" src="https://github.com/user-attachments/assets/b0a1698b-4041-418c-b33e-36fc4219f3e9" />
 
+<img width="1920" height="1032" alt="屏幕截图 2026-05-18 131914" src="https://github.com/user-attachments/assets/e0be875d-060d-4ed4-bdca-c87e27711d62" />
+
 
 本项目是一个运行在 **STM32F103** 微控制器上的多任务嵌入式系统。结合 **FreeRTOS** 实时操作系统内核，实现了一套完整的“本地数据采集 → 软件滤波 → 异常报警 → 云端上报”物联网解决方案。
 
