@@ -1,0 +1,22 @@
+# 忽略 Keil/IAR 编译产生的中间文件和输出文件
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.elf
+*.map
+*.htm
+*.lst
+*.sct
+*.dep
+JLinkLog.txt
+JLinkSettings.ini
+
+# 忽略调试产生的文件
+*.bak
+*.ddk
+
+# 忽略系统自动生成的文件
+.DS_Store
+Thumbs.db
